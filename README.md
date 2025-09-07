@@ -1,7 +1,6 @@
 ## About Me
 
-Hi ! My name is Leonty and I am a novice programmer on my GitHub you can find my scripts and programs for FlipperZero or for other devices.
-
+Hi ! My name is Leonty and I am a novice programmer on my GitHub you can find my scripts and programs for FlipperZero or for other devices. I'm currently learning programming languages that are new to me so that I can write even better programs in the future!
 ## My Skills
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
